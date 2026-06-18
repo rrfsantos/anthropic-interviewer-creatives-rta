@@ -1,0 +1,26 @@
+# Dados brutos e transcrições completas
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/transcricoes*
+*transcricoes*
+*transcripts*
+
+# Arquivos temporários
+*.tmp
+*.log
+*.aux
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+env/
