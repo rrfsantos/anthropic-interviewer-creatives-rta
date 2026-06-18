@@ -187,13 +187,8 @@ Use o arquivo `CITATION.cff`, quando disponível. Na ausência dele, cite como:
 
 ## Licença
 
-Defina a licença conforme o objetivo do repositório.
-
-Para textos e derivados analíticos, uma opção recomendada é:
-
-```text
 Creative Commons Attribution 4.0 International (CC BY 4.0)
-```
+
 
 Para scripts, uma opção simples é:
 
