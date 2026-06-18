@@ -1,4 +1,4 @@
-# RTA GenAI Creative Work Ethics
+# Percepções éticas sobre o uso da IA generativa no trabalho criativo
 
 Repositório de rastreabilidade metodológica do estudo qualitativo sobre percepções éticas de profissionais criativos em relação ao uso de inteligência artificial generativa no trabalho criativo.
 
@@ -182,8 +182,7 @@ As referências centrais do artigo incluem:
 
 Use o arquivo `CITATION.cff`, quando disponível. Na ausência dele, cite como:
 
-```text
-Santos, Renata. RTA GenAI Creative Work Ethics: trilha de auditoria metodológica para análise temática reflexiva de percepções éticas sobre IA generativa no trabalho criativo. GitHub, 2026.
+> Santos, Renata; Barreira, Renato; Fernandes, Antônio Augusto. *Percepções éticas sobre o uso da IA generativa no trabalho criativo*. GitHub, 2026..
 ```
 
 ## Licença
