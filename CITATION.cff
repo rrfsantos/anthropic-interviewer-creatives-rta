@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Se você utilizar este repositório ou estes dados em sua pesquisa, por favor cite-o conforme abaixo."
+authors:
+  - family-names: "Santos"
+    given-names: "Renata"
+  - family-names: "Barreira"
+    given-names: "Renato"
+  - family-names: "Fernandes"
+    given-names: "Antônio Augusto"
+title: "RTA GenAI Creative Work Ethics: trilha de auditoria metodológica para análise temática reflexiva de percepções éticas sobre IA generativa no trabalho criativo"
+version: 1.0.0
+date-released: 2026-06-18
+repository-code: "https://github.com/rrfsantos/anthropic-interviewer-creatives-rta"
+keywords:
+  - "Análise Temática Reflexiva"
+  - "Inteligência Artificial Generativa"
+  - "Trabalho Criativo"
+  - "Ética"
+  - "Trilha de Auditoria"
