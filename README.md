@@ -94,42 +94,46 @@ Visões otimistas e pessimistas sobre a IA.
 4. confiança limitada nas respostas da IA;
 5. medo de substituição e desvalorização profissional.
 
-## Estrutura recomendada do repositório
+## Estrutura do repositório
+
+## Estrutura do repositório
 
 ```text
-rta-genai-creative-work-ethics/
-│
-├── README.md
-├── LICENSE
-├── CITATION.cff
+anthropic-interviewer-creatives-rta/
 ├── .gitignore
-│
-├── paper/
-│   ├── main.tex
-│   ├── sbc-template.bib
-│   └── figuras/
-│
+├── LICENSE.md
+├── README.md
 ├── data/
-│   ├── raw/
-│   │   └── README_source.md
-│   └── processed/
-│       ├── livro_codigos_inicial.csv
-│       ├── matriz_codigos_temas_creatives.csv
-│       ├── mapa_analitico_refinado.csv
-│       ├── matriz_fusao_rebaixamento_temas.csv
-│       └── sintese_subtemas_finais.csv
-│
-├── audit_trail/
-│   └── decisoes_analiticas.md
-│
-├── docs/
-│   ├── protocolo_rta.md
-│   ├── dicionario_dados.md
-│   └── criterios_eticos_anonimizacao.md
-│
-└── scripts/
-    └── README_scripts.md
+│   ├── processed/
+│   │   ├── livro_codigos_inicial.xlsx
+│   │   ├── mapa_analitico_refinado.xlsx
+│   │   ├── matriz_codigos_temas_creatives.xlsx
+│   │   ├── matriz_fusao_rebaixamento_temas.xlsx
+│   │   └── sintese_subtemas_finais.xlsx
+│   └── raw/
+│       └── README_source.md
+└── paper/
+    ├── main.tex
+    └── references.bib
 ```
+
+### Descrição dos diretórios
+
+| Diretório/arquivo           | Descrição                                                                                                         |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| `.gitignore`                | Define arquivos e pastas que não devem ser enviados ao GitHub, especialmente dados brutos e arquivos temporários. |
+| `LICENSE.md`                | Informa a licença de uso do repositório.                                                                          |
+| `README.md`                 | Apresenta o objetivo do projeto, método, corpus e estrutura do repositório.                                       |
+| `data/raw/README_source.md` | Documenta a origem do corpus bruto sem redistribuir as entrevistas completas.                                     |
+| `data/processed/`           | Contém arquivos derivados da análise, usados para rastreabilidade metodológica.                                   |
+| `paper/main.tex`            | Arquivo principal do artigo em LaTeX.                                                                             |
+| `paper/references.bib`      | Arquivo BibTeX com as referências usadas no artigo.                                                               |
+
+```
+```
+
+
+
 
 ## Arquivos de rastreabilidade
 
